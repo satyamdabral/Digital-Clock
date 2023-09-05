@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(clock.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+
+}
+.container{
+    font-family: "Arial", Helvetica, sans-serif;
+    padding: 30px;
+    color: rgb(221, 9, 126);
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 150px;
+    white-space: nowrap;
+}
